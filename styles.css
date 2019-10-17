@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }.menu {
+    height: 100px;
+    background-color: #B2D6FF;    /* Medium blue */
+  }
+  
+  .sidebar {
+    height: 300px;
+    width: 200px;
+    float:left;
+    background-color: #F09A9D;    /* Red */
+  }
+  
+  .content {
+    height: 500px;
+    width:695px;
+    float:left;
+    padding: 20px;
+    background-color: #F5CF8E;    /* Yellow */
+  }
+  
+  .footer {
+    
+    clear: both;
+    overflow:hidden;
+    background-color: #D6E9FE;    /* Light blue */
+  }
+  .page {
+    width: 900px;
+    margin: 0 auto;
+    
+    
+  }
+  .container {
+    overflow: hidden;
+    background-color: #EAEDF0;
+  }
+  .column {
+    float: left;
+    width: 31%;
+    margin: 20px 1.15%;
+    height: 160px;
+    background-color: #B2D6FF;    /* Medium blue */
+  }
+  .article-image {
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
